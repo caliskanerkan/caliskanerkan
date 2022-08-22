@@ -15,6 +15,8 @@
 
 # Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=caliskanerkan&show_icons=true&locale=en" alt="caliskanerkan" />
-
+<p>
+<img  src="https://github-readme-stats.vercel.app/api?username=caliskanerkan&show_icons=true&locale=en" alt="caliskanerkan" />
+  
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=caliskanerkan&" alt="caliskanerkan" />
+</p>
