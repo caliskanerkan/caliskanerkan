@@ -1,6 +1,6 @@
 # Hi 👋, I'm Erkan:
 
-- 🔭 I’m currently working on **ui framework**
+- 🔭 I’m currently working on **charm-ui**
 
 - 💬 Ask me about **Vue/React/TS**
 
