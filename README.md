@@ -1,7 +1,5 @@
 # Hi 👋, I'm Erkan:
 
-- 🔭 I’m currently working on **charm-ui** and **simple-ts**
-
 - 💬 Ask me about **Vue/React/TS**
 
 - 🌱 I’m currently learning **Svelte/Jest**
